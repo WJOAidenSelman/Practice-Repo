@@ -1,7 +1,3 @@
 hey
 
 canceled merge
-
-jae changes
-
-test conflict
